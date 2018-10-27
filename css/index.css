@@ -1,0 +1,110 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 2.813em/1.38 Helvetica;
+  color: rgb(3, 3, 3);
+}
+
+.element {
+  position: relative;
+  float: left;
+}
+
+.text {
+  position: relative;
+  float: left;
+  z-index: 5;
+  width: 5.6666666666%;
+  min-height: 13px;
+  margin: -446px 0 0 45.58203%;
+  font-size: 0.222em;
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  height: 13px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+._input {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 4;
+  width: 9.2513020833%;
+  height: 15px;
+  margin: -433px 0 0 45.58203%;
+  padding: 0 10px;
+  border-bottom: 1px solid rgb(255, 255, 255);
+  background-color: #000000;
+  font-size: 0.289em;
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.element-1 {
+  z-index: 0;
+  width: 109.7499999999%;
+  height: 750px;
+  margin: -34px 0 0 -9.75%;
+  background-color: rgb(120, 120, 120);
+}
+
+.element-2 {
+  clear: both;
+  z-index: 1;
+  width: 21.8%;
+  height: 316px;
+  margin: -530px 0 0 39.14974%;
+  background-color: #000000;
+  box-shadow: 2px 2px 10px 2px rgba(0, 0, 0, .5) inset;
+}
+
+._button-1 {
+  z-index: 3;
+  width: 9.25%;
+  margin: -366px 0 0 45.58203%;
+  background-color: rgb(120, 120, 120);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+  font-family: Cuprum;
+  font-size: 0.222em;
+  color: rgb(0, 0, 0);
+}
+
+._button-2 {
+  z-index: 2;
+  width: 7%;
+  margin: -261px 0 0 46.66667%;
+  background-color: rgba(247, 247, 247, 0);
+  font-size: 1em;
+  color: rgb(3, 3, 3);
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: 'Kite One';
+  font-style: normal;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(153, 153, 153);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
